@@ -1,0 +1,13 @@
+name: Man10AntiEgg
+version: '${project.version}'
+main: yusama125718.man10antiegg.Man10AntiEgg
+api-version: 1.19
+
+commands:
+  antiegg:
+    description: antiegg
+    usage: /antiegg help
+
+parmissions:
+  mantiegg.op:
+    default: op
